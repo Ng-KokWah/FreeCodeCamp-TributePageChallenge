@@ -1,0 +1,72 @@
+body {
+    text-align:center;
+    page-align:center;
+}
+#belowtitle {
+  font-size:27px;
+}
+
+li {
+  font-size:15px;
+    width:600px;
+    margin-left:450px;
+    text-align:left;
+}
+
+li:hover {
+  color:blue;
+}
+
+img {
+  height:540px;
+  
+}
+
+#pic {
+  border-style:solid;
+  border-width:1px;
+  border-color:grey;
+  font-size:15px;
+  width:900px;
+  Height:610px;
+  margin-left:300px;
+}
+
+.quote {
+  width:600px;
+  margin-left:470px;
+  text-align:left;
+  font-size:21px;
+}
+
+#cite {
+  color:grey;
+   margin-left:500px;
+  font-size:19px;
+}
+
+h3 {
+  width:650px;
+  text-align:left;
+  margin-left:450px;
+}
+
+footer {
+  margin-top:50px;
+  font-size:16px;
+}
+
+#gotop {
+  position:fixed;
+  bottom:30px;
+  right:40px;
+  border-style:solid;
+  border-color:grey;
+  border-width:3px;
+  border-radius:20px;
+  padding: 20px 20px;
+}
+
+#gotop:hover {
+   background-color:grey;
+}
